@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tok2sumit
+- 👋 Hi, I’m Sumit Singh
 - 👀 I’m interested in Web/App Development projects
 - 🌱 I’m currently learning Adroid Studio
 - 💞️ I’m looking to collaborate on Web/App Development projects
